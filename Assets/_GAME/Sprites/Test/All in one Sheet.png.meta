@@ -1,0 +1,4106 @@
+fileFormatVersion: 2
+guid: 1d5190cec1f33b44d993e6bd06b407b8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: All in one Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 859
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fdc3c5215b76fb40aeb828fb7774d09
+      internalID: -1620851478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 859
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087a4bf12839334409b526abd4adc4c1
+      internalID: -370667953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 859
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226229034e5f4814d96489b8f567b9f8
+      internalID: 1879148864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 859
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b2878560c25eb4382330921b6c91cf
+      internalID: 1747683789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 859
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d8ac5521a02154cae3356b7a0c4458
+      internalID: -1093732143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 860
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3b14ccb2af8d04fb0e41e74e2b5b24
+      internalID: 2097144369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 859
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725e4078b2e5ca34a9e4d67f0c28bce5
+      internalID: 37051842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 859
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcce2b395c8daf5479331794783230a2
+      internalID: 997465366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 860
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a9e4a9f4a4dbe4b8334447105fcaf7
+      internalID: -1638765015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 854
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec353ee26b8d79b4f9729d8d8f684cd3
+      internalID: 1525124523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 854
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79dd67b24caad9a4bb5b4ed5e3753f6c
+      internalID: 1150261254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 854
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f7ffa095a2be44d9750bdf67a463c0
+      internalID: 434290510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 854
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5730009beae6b345ab50fd2a11a0e04
+      internalID: -661304038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 854
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ae61166687a7d4792ed5d65bc93060
+      internalID: 1112822347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 854
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adca1cfb8ba7b254981bfa9a7af1e30a
+      internalID: 1184287496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 854
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f6fa1b254cc3e428bbe12f4e1bb10d
+      internalID: 841007089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 854
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62810baf70e1cf947929ae2c5a7c0e4d
+      internalID: -310087553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 854
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d93c75eae0cc3a4487e67a15f186cbc
+      internalID: -1894881279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 854
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4682086cc0984dc488281fa76b5ce922
+      internalID: 1287803974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 795
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6461e840fff52a4495362f9f6118f96
+      internalID: -1038946648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 795
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b91a5c327a034418117fbc617b1e2f
+      internalID: -84960218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 796
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd9ab4b76e22b948ae200a53798234a
+      internalID: 999770352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 796
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb8170dc6934ca41bd6b5016ec1b0b8
+      internalID: 1743502362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 790
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57209b1177284434381d8f4090feeea6
+      internalID: 472116192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 790
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec059ce6c897daa40a58c312c9bf07fe
+      internalID: 931460214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 790
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbfc01a95fdece04b847f9dcca0084d2
+      internalID: -117274073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 790
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c3424d5a17a8149ae59ddc5743a043
+      internalID: -1549025767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 790
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c93a3566bf7084984798ebd11e6458
+      internalID: 570264313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 790
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ea70cfde1ad77409bcaabf9bfc631a
+      internalID: -2064741462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 790
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e1a1cc52a7d5d4c80728d08871f699
+      internalID: -1443566256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 790
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c3a4b33812d3640ac759e72c41d41d
+      internalID: 979513878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 731
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0797965bb2a88a944a4c512ef287e310
+      internalID: -389236464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 731
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a964ba2d8bd91143bf6b37105390bdb
+      internalID: -1072343457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 732
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54d75b26850aa242b8f1370ba3e6219
+      internalID: 307684833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 732
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6899c0b0a9490c7488eff8cb013d8f90
+      internalID: -1691428020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 726
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ba7b11a17ab4b42b91199c0f1de8da
+      internalID: -1226024783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 726
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e580fa5ce335d441bf3b7d7698ffc5e
+      internalID: -1788617318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 697
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ed89779496a2c4baeea041969be679
+      internalID: -180094379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 697
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc17c8a75b5c3941a40ccd25af25478
+      internalID: -1171468411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 697
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988dbd0f683f69240a79c77f7ba5a451
+      internalID: -1414193604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 697
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fefb84a6075d1924a96ad492f24816ee
+      internalID: 556019046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 697
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac353022c90fe144499bcf8e7861477c
+      internalID: 1546724397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 697
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c46972f7aa6336419c0dd1ce6e62aab
+      internalID: -212967092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 697
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357777af5ca52c74b9b8f84488bfed35
+      internalID: -2075889643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 697
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4c25a9aab2b554f834312d8d67e2eb
+      internalID: -1845854963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 666
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98071904f4d573f468060862fb52f319
+      internalID: -353600421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 666
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbbb4faccee4f0b4588ae4b94ea5c2eb
+      internalID: 625978949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 666
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72782b229515884cbd47203fc887089
+      internalID: 1953913891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 666
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6541075ed5383d042bd7ca4235f47451
+      internalID: 1521946818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 666
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fce1ae4d86358a4bb4d4b23c2667764
+      internalID: 210606350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 668
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57527f2a5238dee47b2b2f843ebf3d2f
+      internalID: -1719771596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 667
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ead492e3137e94280600afe00b936f
+      internalID: 1749824171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 667
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893b6f8f69f4c6a4ca245ca706906f50
+      internalID: 215958738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 668
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c0880af57c45940a2850fbab3bf8c5
+      internalID: -370169628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 662
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9072b9a270a46754487c4785f9d78ca9
+      internalID: 1285071081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 662
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210adc84fe9e2e043a9bc95c09b9fef6
+      internalID: -2074909590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 634
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb56808b3b901e24197adf8746eda095
+      internalID: 269523257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 634
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7fa9e5fcc7a03f43aa408d6d4e7c652
+      internalID: 1777076423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 633
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a17f259ad864fd42adf021182cf92fb
+      internalID: -887039040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 633
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43be55bf1c08164c95ba50bff656aa4
+      internalID: 452113088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 633
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92345b8a9465be4882efe1ab7de952a
+      internalID: -299481694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 633
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc4cfe1174d5bb4594709c83297c6d5
+      internalID: -1297631287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 633
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c080842ee6e704d84e94f2ee2ed3ac
+      internalID: -1430287519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 633
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8d521ebe0e3f846a31ad7394d090f7
+      internalID: -1934597790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 576
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde79361b86f3464e8578152a6aeda44
+      internalID: -1515925221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 576
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e2540597a6b90438e970db9d592577
+      internalID: 89533383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 576
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb8982e1b9173343bd204041badefe7
+      internalID: 2031663547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 576
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22431a6d90698444687cd7dda5e8383f
+      internalID: -1676019705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 576
+        width: 66
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a7df08969beb041886849e994c17f1
+      internalID: 1486565546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 576
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470bf50ed8efa7b4ca3e5f6118e20fc8
+      internalID: -928072412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 576
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247ac8d1876750949ba0b5012de057b1
+      internalID: 836066165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 576
+        width: 66
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494241d8fd336f34f8c5222a3a64f436
+      internalID: 695554291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 598
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65eb2e66263450e4f88db02c52894066
+      internalID: -475251710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 598
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22332e3f77ec0e4a8f2c3b835a2806b
+      internalID: 1193883332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 569
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1376dec28119c4e4bb9a6469853df259
+      internalID: -749684086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 569
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6484659cf6d20d543948c8173c66af2c
+      internalID: 1406706341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 569
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ba728a7cdee024eac4ac1ef84bfc5f
+      internalID: 1720080165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 569
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c739b45e33523f4cb154b0a74edfc04
+      internalID: -32166786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 568
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e641c8dbd4e6a694788880364340c28f
+      internalID: 1218215948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 568
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc8ca67c5ca7964b9606e9647391cb0
+      internalID: 690883848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_80
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 512
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77eb5837612a2747bb7b22e3b897644
+      internalID: -1910346339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_81
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 512
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30797aaad780dbd4db76e879917fd220
+      internalID: -173390214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_82
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 512
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a387cb593da16734ba31d981c25442f8
+      internalID: -67139102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_83
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 512
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6603b4ebb7015047accebfef4cf1ebb
+      internalID: 2127786713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_84
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 512
+        width: 66
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933b24b3bce4db848aa9f605ff093dc2
+      internalID: 1003680665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_85
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 512
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2e715ad13b08e42869e03807e1d304
+      internalID: 1512120454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_86
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 512
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8450517a2fa91ed4b908dcb55d9d3b2c
+      internalID: 136744736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_87
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 512
+        width: 66
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa4986d21d94e1429e6dc16282e158b
+      internalID: 1950560571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_88
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 533
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ec7b5dca2ab274e9701ae53e79ed90
+      internalID: 2049285446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_89
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 533
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967f9ed0ada874544bd76742eba3c9de
+      internalID: -135718731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_90
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 505
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ee8508fb90ee84294ac907b96c3b52
+      internalID: -591261659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_91
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 505
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a8fe9d52379f44d83f5fe5a7db8747
+      internalID: -1223588517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_92
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 505
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d27dbec8a3f15b4cb673f8937b9664c
+      internalID: -1401500887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_93
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 505
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f45b424438f4148b45616ef8c10e07
+      internalID: -1261153285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_94
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 504
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608964963123b544eb8ec6c247932d73
+      internalID: 736341295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_95
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 504
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6796814bfa3ed845bb3c24eabfb74ba
+      internalID: -1236550713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_96
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 504
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c70e4b5acc3e774787b733b786c2b72
+      internalID: -1925142059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_97
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 504
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b34bc3d6c5367c469360e0e3affc0e0
+      internalID: -497141058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_98
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 448
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aaf0ea94b05362489f54407ef7b3439
+      internalID: -1209190969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_99
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 448
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c64b46e8761db249a81949c50245657
+      internalID: -458774034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_100
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 448
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b05b2e61ac5914db0248c1da3ceaa9
+      internalID: -1404869039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_101
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 448
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e9d87c27dc90343b5a74a4c037b39f
+      internalID: 690426651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_102
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 448
+        width: 66
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7523e3addaf36b47b0632bc22b5ba72
+      internalID: -925888118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_103
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 448
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb60e05e224ab8745870d8b019e9cb5e
+      internalID: -266537876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_104
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 448
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45b341d067140342a4b0f2b6cab5e1c
+      internalID: 549941648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_105
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 448
+        width: 66
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355a2d366f857bc43ae2759ad5c9401f
+      internalID: -256869941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_106
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 448
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98c27f9f10f0394d8faf2df7a4e958f
+      internalID: -1944493771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_107
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 448
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceff32b8b84c59d48bb691d64ecea06a
+      internalID: 1597204211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_108
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 418
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30359730cb74e142994295030232817
+      internalID: -394951128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_109
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 418
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5da8f0d1602b944eac687b82138c136
+      internalID: -629987145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_110
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 418
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fdfa239b057d73418e30cebabe16b35
+      internalID: 1340943452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_111
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 418
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc60f58ce0ad294fab3d841c076a84e
+      internalID: 92509571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_112
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 392
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec3d17f8ba6f024e889dc41b4628075
+      internalID: 448126596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_113
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 392
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ece7c960e89e243bb1849cb4410af9
+      internalID: 2052276038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_114
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 383
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0c561faa0aa4a47903265cf3a4e873
+      internalID: -1141618460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_115
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 383
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5276d5eeb546bea4bb0caa231dd973b5
+      internalID: 1870191588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_116
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 383
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821cef1f7ad93084cb40642f094e84b5
+      internalID: -775484861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_117
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 383
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7557d8a9751194eb865e1cdec92f93
+      internalID: 925607565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_118
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 384
+        width: 66
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc2f952cc1068d40b3e946fbc7fa74b
+      internalID: -2056141140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_119
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 384
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04abf3d377e8b5439e397b097080102
+      internalID: 986395124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_120
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 384
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef3699dd6d6095479034492d6d72578
+      internalID: -1602558423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_121
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 384
+        width: 66
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d588d66b20d53ad4c94377cdd70e3acd
+      internalID: 1347463290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_122
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 384
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d26f163d8f3ac4b8847aa4aafc774b
+      internalID: 1743299517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_123
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 384
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ca89e1c8571be4f86112bc94d20a54
+      internalID: -1154544096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_124
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 354
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85a8bcc9c83d594db67b2e7447879ce
+      internalID: 2092381746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_125
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 354
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b81f6eec1f668d49be728356dd9fa80
+      internalID: 72051560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_126
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 354
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a59cffc9ed4df4faa00dceb4d18df1
+      internalID: 428962844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_127
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 354
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc03ca770b7ebb24280e3085c17efd8c
+      internalID: 1913154119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_128
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 328
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7f43a9b52eb384ab2b9ea5749aa403
+      internalID: 1927119261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_129
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 328
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eba0fb3e707a064d85a792aad7e2fd2
+      internalID: -1419743136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_130
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 302
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86fb1e2bfdc26e47b50f5aa38fe5c8d
+      internalID: -164399803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_131
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 302
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95732810dd643f45972f79b6248e318
+      internalID: 1445251433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_132
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 302
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2077f5df103609c4789304647663fe52
+      internalID: -253681377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_133
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 286
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ddf931cc66214747b1926e2119c479b
+      internalID: 246953031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_134
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 323
+        width: 64
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c8e9af2e08fd64a8f84810f71f8158
+      internalID: -1855872723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_135
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 323
+        width: 64
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578d93515fd0a294e99cf9e5ab712573
+      internalID: 670348696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_136
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 288
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45960a47080e8a4b836aed46cc81631
+      internalID: 1478376821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_137
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 320
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2aefbc9ebdd5942a88cfadf6ffea62
+      internalID: 1511428825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_138
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 320
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43de912b4a91ada49b500a9bc44b1f73
+      internalID: 959720361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_139
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 290
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99096214179960041b918814b96f871d
+      internalID: -981217526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_140
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 290
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3250ef0f72787ce448f045f295abcd9f
+      internalID: -1376497587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_141
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 290
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e649755014efb49bb023744b12b2fd
+      internalID: 405334726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_142
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 290
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae77d0972ae230d4cb0a388275f9f373
+      internalID: 954818459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_143
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 302
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3738cf989e287f942ab7c81fc56530c3
+      internalID: 366574184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_144
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 238
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93080ca102eec7240bed7410b2c3dc7c
+      internalID: 1384128854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_145
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 238
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3296821814080a74785dfc8ed73dabf8
+      internalID: -826838072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_146
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 238
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d25dbf2d19268488c508a254e3a262
+      internalID: -522324782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_147
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 222
+        width: 25
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f878badacbd48404e82d2e3793690382
+      internalID: 1181444832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_148
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 224
+        width: 27
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a2ac5a593fef54698138a4daaa56d4
+      internalID: -1898549101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_149
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 226
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ddd6fffd6d0eaa438c267a4930dca2b
+      internalID: -774831516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_150
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 226
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a566a778bf1a57442889ec81d7079b49
+      internalID: -835219306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_151
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 226
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3001b8b8ec71b9349a54151b27c6019e
+      internalID: -1278676930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_152
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 226
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67e0536a8cadbf409a10001dfec81c9
+      internalID: -1585345792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_153
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 225
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53925df9350bacb48a21651679b6eb49
+      internalID: 1591518397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_154
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 174
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eabbc0de2628d244ba0611d344fe72e
+      internalID: 1769989960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_155
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 174
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79dc3f7d5af43b74e930c9ca80e8eff6
+      internalID: -1208394368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_156
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 174
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d278a73e8585b4098c569526ef5686
+      internalID: -1190803918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_157
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 158
+        width: 27
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e89fe65ebdbb0141b0a1ad2717cdb60
+      internalID: 34693671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_158
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 160
+        width: 27
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34109a97c1cfcc41914e2013cbd906f
+      internalID: -2079467633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_159
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 162
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b48dfdc3f65ea479175c1ef2d78395
+      internalID: 420597605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_160
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 162
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff742f4711eb9748b4dc33998052098
+      internalID: 1296222084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_161
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 162
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c80f10cf2d202f4294f6a2e92934ae7
+      internalID: -1934047639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_162
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 162
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8621499adc99aea46a4078d030716843
+      internalID: -1699748552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_163
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 161
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b7d477cba3e5f4aada6d0e22890c34
+      internalID: -1688639301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_164
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 110
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d061a229744c14b4998ac6b04593a429
+      internalID: -382226921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_165
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 110
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b67ce67bc7ca634385bfe0542c2e132
+      internalID: -714750994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_166
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 110
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be5f0663127ce54b907d1b78897f5d1
+      internalID: 1919135310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_167
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 110
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f953afb85053d324e837fc3bda48a0ac
+      internalID: 1450328445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_168
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 96
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3b8e5c93466604b973120f3871c106
+      internalID: -191688038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_169
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 96
+        width: 64
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a853088ec6394045a24a1ef0274072a
+      internalID: -335350374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_170
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 96
+        width: 64
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae84f68e1f9ec114d8870226569fe779
+      internalID: -1512263977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_171
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 96
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e8fec47dce3bd48995dddc7d6735c1
+      internalID: 1682279241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_172
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 98
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2564d3e3f142c2540b773a00447ea29e
+      internalID: 1402011465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_173
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 98
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7a0ef0290d637458c2e073a03695e2
+      internalID: 989641598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_174
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 46
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce4d3041d89b5642bb83d8fce3e038e
+      internalID: -1372618878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_175
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 46
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d669897ccdb4d418641f7962b8d63b
+      internalID: 747104283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_176
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 46
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54cd0c4db5857c6408c1d56391cc9964
+      internalID: 1656310259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_177
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 46
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763878225f0e92d4ab60b9e02c1567eb
+      internalID: 2076181534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_178
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 34
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd413ea443ed1c4594bbd5393bb7321
+      internalID: 1474441128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All in one Sheet_179
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 34
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e15fabe5b9e59142adff10c939e363f
+      internalID: -613073705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      All in one Sheet_55: -2074909590
+      All in one Sheet_42: -212967092
+      All in one Sheet_164: -382226921
+      All in one Sheet_91: -1223588517
+      All in one Sheet_173: 989641598
+      All in one Sheet_69: -928072412
+      All in one Sheet_170: -1512263977
+      All in one Sheet_68: 1486565546
+      All in one Sheet_76: 1720080165
+      All in one Sheet_149: -774831516
+      All in one Sheet_150: -835219306
+      All in one Sheet_71: 695554291
+      All in one Sheet_12: -661304038
+      All in one Sheet_39: -1414193604
+      All in one Sheet_120: -1602558423
+      All in one Sheet_116: -775484861
+      All in one Sheet_130: -164399803
+      All in one Sheet_122: 1743299517
+      All in one Sheet_138: 959720361
+      All in one Sheet_25: -117274073
+      All in one Sheet_98: -1209190969
+      All in one Sheet_159: 420597605
+      All in one Sheet_89: -135718731
+      All in one Sheet_70: 836066165
+      All in one Sheet_28: -2064741462
+      All in one Sheet_158: -2079467633
+      All in one Sheet_56: 269523257
+      All in one Sheet_66: 2031663547
+      All in one Sheet_110: 1340943452
+      All in one Sheet_38: -1171468411
+      All in one Sheet_27: 570264313
+      All in one Sheet_102: -925888118
+      All in one Sheet_119: 986395124
+      All in one Sheet_92: -1401500887
+      All in one Sheet_112: 448126596
+      All in one Sheet_10: 1150261254
+      All in one Sheet_67: -1676019705
+      All in one Sheet_143: 366574184
+      All in one Sheet_179: -613073705
+      All in one Sheet_79: 690883848
+      All in one Sheet_109: -629987145
+      All in one Sheet_111: 92509571
+      All in one Sheet_32: -1072343457
+      All in one Sheet_80: -1910346339
+      All in one Sheet_93: -1261153285
+      All in one Sheet_60: -299481694
+      All in one Sheet_43: -2075889643
+      All in one Sheet_24: 931460214
+      All in one Sheet_17: -1894881279
+      All in one Sheet_141: 405334726
+      All in one Sheet_108: -394951128
+      All in one Sheet_162: -1699748552
+      All in one Sheet_153: 1591518397
+      All in one Sheet_7: 997465366
+      All in one Sheet_148: -1898549101
+      All in one Sheet_30: 979513878
+      All in one Sheet_156: -1190803918
+      All in one Sheet_126: 428962844
+      All in one Sheet_137: 1511428825
+      All in one Sheet_135: 670348696
+      All in one Sheet_81: -173390214
+      All in one Sheet_136: 1478376821
+      All in one Sheet_75: 1406706341
+      All in one Sheet_163: -1688639301
+      All in one Sheet_133: 246953031
+      All in one Sheet_14: 1184287496
+      All in one Sheet_8: -1638765015
+      All in one Sheet_51: 1749824171
+      All in one Sheet_171: 1682279241
+      All in one Sheet_40: 556019046
+      All in one Sheet_125: 72051560
+      All in one Sheet_124: 2092381746
+      All in one Sheet_18: 1287803974
+      All in one Sheet_29: -1443566256
+      All in one Sheet_94: 736341295
+      All in one Sheet_87: 1950560571
+      All in one Sheet_114: -1141618460
+      All in one Sheet_48: 1521946818
+      All in one Sheet_175: 747104283
+      All in one Sheet_145: -826838072
+      All in one Sheet_1: -370667953
+      All in one Sheet_19: -1038946648
+      All in one Sheet_105: -256869941
+      All in one Sheet_99: -458774034
+      All in one Sheet_132: -253681377
+      All in one Sheet_62: -1430287519
+      All in one Sheet_129: -1419743136
+      All in one Sheet_44: -1845854963
+      All in one Sheet_131: 1445251433
+      All in one Sheet_134: -1855872723
+      All in one Sheet_157: 34693671
+      All in one Sheet_161: -1934047639
+      All in one Sheet_46: 625978949
+      All in one Sheet_88: 2049285446
+      All in one Sheet_47: 1953913891
+      All in one Sheet_9: 1525124523
+      All in one Sheet_127: 1913154119
+      All in one Sheet_146: -522324782
+      All in one Sheet_58: -887039040
+      All in one Sheet_96: -1925142059
+      All in one Sheet_49: 210606350
+      All in one Sheet_37: -180094379
+      All in one Sheet_104: 549941648
+      All in one Sheet_178: 1474441128
+      All in one Sheet_90: -591261659
+      All in one Sheet_77: -32166786
+      All in one Sheet_31: -389236464
+      All in one Sheet_155: -1208394368
+      All in one Sheet_139: -981217526
+      All in one Sheet_115: 1870191588
+      All in one Sheet_2: 1879148864
+      All in one Sheet_82: -67139102
+      All in one Sheet_16: -310087553
+      All in one Sheet_15: 841007089
+      All in one Sheet_95: -1236550713
+      All in one Sheet_142: 954818459
+      All in one Sheet_5: 2097144369
+      All in one Sheet_85: 1512120454
+      All in one Sheet_22: 1743502362
+      All in one Sheet_86: 136744736
+      All in one Sheet_45: -353600421
+      All in one Sheet_100: -1404869039
+      All in one Sheet_103: -266537876
+      All in one Sheet_33: 307684833
+      All in one Sheet_113: 2052276038
+      All in one Sheet_63: -1934597790
+      All in one Sheet_144: 1384128854
+      All in one Sheet_165: -714750994
+      All in one Sheet_61: -1297631287
+      All in one Sheet_26: -1549025767
+      All in one Sheet_152: -1585345792
+      All in one Sheet_52: 215958738
+      All in one Sheet_57: 1777076423
+      All in one Sheet_74: -749684086
+      All in one Sheet_118: -2056141140
+      All in one Sheet_107: 1597204211
+      All in one Sheet_106: -1944493771
+      All in one Sheet_3: 1747683789
+      All in one Sheet_65: 89533383
+      All in one Sheet_154: 1769989960
+      All in one Sheet_64: -1515925221
+      All in one Sheet_54: 1285071081
+      All in one Sheet_123: -1154544096
+      All in one Sheet_73: 1193883332
+      All in one Sheet_11: 434290510
+      All in one Sheet_13: 1112822347
+      All in one Sheet_41: 1546724397
+      All in one Sheet_121: 1347463290
+      All in one Sheet_36: -1788617318
+      All in one Sheet_177: 2076181534
+      All in one Sheet_21: 999770352
+      All in one Sheet_140: -1376497587
+      All in one Sheet_0: -1620851478
+      All in one Sheet_147: 1181444832
+      All in one Sheet_84: 1003680665
+      All in one Sheet_169: -335350374
+      All in one Sheet_72: -475251710
+      All in one Sheet_59: 452113088
+      All in one Sheet_166: 1919135310
+      All in one Sheet_101: 690426651
+      All in one Sheet_160: 1296222084
+      All in one Sheet_6: 37051842
+      All in one Sheet_168: -191688038
+      All in one Sheet_83: 2127786713
+      All in one Sheet_97: -497141058
+      All in one Sheet_34: -1691428020
+      All in one Sheet_78: 1218215948
+      All in one Sheet_151: -1278676930
+      All in one Sheet_174: -1372618878
+      All in one Sheet_53: -370169628
+      All in one Sheet_167: 1450328445
+      All in one Sheet_35: -1226024783
+      All in one Sheet_20: -84960218
+      All in one Sheet_117: 925607565
+      All in one Sheet_50: -1719771596
+      All in one Sheet_128: 1927119261
+      All in one Sheet_172: 1402011465
+      All in one Sheet_176: 1656310259
+      All in one Sheet_23: 472116192
+      All in one Sheet_4: -1093732143
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
